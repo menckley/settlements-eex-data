@@ -809,3 +809,21 @@ session,marche,contrat,echeance,commodity,area,product,short_code,maturity,matur
 2026-10-30,Power Base France,Month-Ahead,nov. 2026,POWER,FR,Base,F7BM,202611,Month,230.35,EUR,MWh
 2026-10-30,Power Base France,Cal-27,2027,POWER,FR,Base,F7BY,202701,Year,128.16,EUR,MWh
 2026-10-30,Power Base France,Cal-28,2028,POWER,FR,Base,F7BY,202801,Year,70.94,EUR,MWh
+2026-11-02,GO Hydraulique (EU),Prod. 2026,janv. 2027,GO,EU,Hydro,EGOH,202701,Month,1.69,EUR,GO
+2026-11-02,GO Hydraulique (EU),Prod. 2027,janv. 2028,GO,EU,Hydro,EGOH,202801,Month,1.85,EUR,GO
+2026-11-02,GO Hydraulique (EU),Prod. 2028,janv. 2029,GO,EU,Hydro,EGOH,202901,Month,1.79,EUR,GO
+2026-11-02,GO Renouvelable (EU),Prod. 2026,janv. 2027,GO,EU,Renewable Power,EGOE,202701,Month,1.65,EUR,GO
+2026-11-02,GO Renouvelable (EU),Prod. 2027,janv. 2028,GO,EU,Renewable Power,EGOE,202801,Month,1.78,EUR,GO
+2026-11-02,GO Renouvelable (EU),Prod. 2028,janv. 2029,GO,EU,Renewable Power,EGOE,202901,Month,1.72,EUR,GO
+2026-11-02,GO Solaire (EU),Prod. 2026,janv. 2027,GO,EU,Solar,EGOS,202701,Month,1.7,EUR,GO
+2026-11-02,GO Solaire (EU),Prod. 2027,janv. 2028,GO,EU,Solar,EGOS,202801,Month,1.87,EUR,GO
+2026-11-02,GO Solaire (EU),Prod. 2028,janv. 2029,GO,EU,Solar,EGOS,202901,Month,1.81,EUR,GO
+2026-11-02,Gaz PEG,Month-Ahead,déc. 2026,NATGAS,PEG,Base,G5BM,202612,Month,93.609,EUR,MWh/D
+2026-11-02,Gaz PEG,Cal-27,2027,NATGAS,PEG,Base,G5BY,202701,Year,74.468,EUR,MWh/D
+2026-11-02,Gaz PEG,Cal-28,2028,NATGAS,PEG,Base,G5BY,202801,Year,46.038,EUR,MWh/D
+2026-11-02,Gaz TTF,Month-Ahead,déc. 2026,NATGAS,TTF,Base,G3BM,202612,Month,94.879,EUR,MWh
+2026-11-02,Gaz TTF,Cal-27,2027,NATGAS,TTF,Base,G3BY,202701,Year,75.286,EUR,MWh
+2026-11-02,Gaz TTF,Cal-28,2028,NATGAS,TTF,Base,G3BY,202801,Year,46.788,EUR,MWh
+2026-11-02,Power Base France,Month-Ahead,déc. 2026,POWER,FR,Base,F7BM,202612,Month,196.36,EUR,MWh
+2026-11-02,Power Base France,Cal-27,2027,POWER,FR,Base,F7BY,202701,Year,119.62,EUR,MWh
+2026-11-02,Power Base France,Cal-28,2028,POWER,FR,Base,F7BY,202801,Year,69.33,EUR,MWh
